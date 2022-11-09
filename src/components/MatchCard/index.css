@@ -1,0 +1,43 @@
+.match-card {
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  min-width: 15.99rem;
+  max-width: 16rem;
+  max-height: 26rem;
+  padding: 1rem;
+  text-align: center;
+  border-radius: 8px;
+  margin: 1.5rem;
+}
+
+.team-logo-image {
+  width: 7.5rem;
+  height: 8rem;
+  flex-shrink: 0;
+}
+.team {
+  font-size: 1.2rem;
+  height: 2rem;
+  flex-grow: 1;
+}
+.result {
+  height: 2rem;
+  flex-grow: 1;
+}
+
+.red {
+  color: red;
+  font-size: 1.4rem;
+  height: 2rem;
+  flex-grow: 1;
+}
+.green {
+  color: green;
+  font-size: 1.4rem;
+  height: 2rem;
+  flex-grow: 1;
+}

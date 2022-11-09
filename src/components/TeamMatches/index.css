@@ -1,0 +1,18 @@
+.team-details-con {
+  background-image: linear-gradient(to bottom, #d91c1f, #000000);
+  min-height: 100vh;
+  padding: 4rem 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.banner-image {
+  max-height: 450px;
+}
+.latest-matches-heading {
+  color: #ffffff;
+  font-size: 1.3rem;
+}
+.match-card-list {
+  display: flex;
+  flex-wrap: wrap;
+}

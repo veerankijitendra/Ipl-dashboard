@@ -1,0 +1,35 @@
+.letest-match-details-card {
+  background-color: #0f172a;
+  border: 1px solid #0f172a;
+  border-radius: 8px;
+  min-height: 23rem;
+  padding: 0 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card-1 {
+  color: #ffffff;
+}
+.date {
+  font-size: 1.4rem;
+}
+.venue {
+  font-size: 0.85rem;
+}
+.result {
+  font-size: 0.85rem;
+}
+.logo-image-1 {
+  max-width: 15rem;
+}
+.card-2 {
+  color: #ffffff;
+  text-align: right;
+}
+.kkkk {
+  font-size: 1.1rem;
+}
+.jjjj {
+  font-size: 0.78rem;
+}
